@@ -7,4 +7,6 @@
 
 \f0\fs24 \cf0 Esta es una despedida\
 \
-jajajaj si funcion\'f3}
+jajajaj si funcion\'f3\
+\
+metodo pink ();}
